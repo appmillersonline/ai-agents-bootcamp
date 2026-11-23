@@ -1,0 +1,15 @@
+Name: Lucas Moreau
+Email: lucas.moreau@example.com
+Phone: +351 900 000 104
+Address: Rua do Almada 5, Porto
+Date of birth: 30 January 2004
+Photo: attached
+---
+Summary: Design student looking for part-time work.
+
+Experience:
+- 2025: Retail assistant in a clothing shop for 6 months.
+
+Skills: Canva, TikTok videos.
+Languages: French, English.
+Availability: Saturdays and two weekday afternoons.

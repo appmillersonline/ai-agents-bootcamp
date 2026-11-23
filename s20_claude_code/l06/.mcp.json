@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "sara-shop": {
+      "type": "stdio",
+      "command": "/Users/Shared/you/ai-agents-bootcamp/.venv/bin/python",
+      "args": [
+        "/Users/Shared/you/ai-agents-bootcamp/s19_mcp/shop_server.py"
+      ],
+      "env": {}
+    }
+  }
+}

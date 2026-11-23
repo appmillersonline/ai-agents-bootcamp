@@ -1,0 +1,15 @@
+Name: Daniel Kowalski
+Email: daniel.kowalski@example.com
+Phone: +351 900 000 108
+Address: Rua de Camões 70, Porto
+Date of birth: 11 November 1980
+Photo: attached
+---
+Summary: Reliable warehouse worker.
+
+Experience:
+- 2015 to now: Warehouse picker. Forklift licence, strict safety record.
+
+Skills: stock control, forklifts.
+Languages: Polish, English.
+Availability: weekdays only.

@@ -1,0 +1,5 @@
+{
+ "Lumen Candle Co.": {"iban": "DE00 1111 2222 3333 4444 01", "usual_max": 450},
+ "Clay & Fire Supplies": {"iban": "DE00 5555 6666 7777 8888 02", "usual_max": 350},
+ "Boxwell Packaging": {"iban": "DE00 9999 1212 3434 5656 03", "usual_max": 300}
+}

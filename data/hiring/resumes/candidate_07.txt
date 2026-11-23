@@ -1,0 +1,16 @@
+Name: Sofia Rossi
+Email: sofia.rossi@example.com
+Phone: +351 900 000 107
+Address: Rua da Picaria 14, Porto
+Date of birth: 18 April 1998
+Photo: attached
+---
+Summary: Florist who loves making things people take home.
+
+Experience:
+- 2022 to now: Florist in a flower shop. Make bouquets by hand, serve customers, handle the shop's Instagram photos.
+- Follows the shop's safety rules for tools and cleaning chemicals.
+
+Skills: floristry, customer service, product photography.
+Languages: Italian, Portuguese, English.
+Availability: Tuesday to Saturday.

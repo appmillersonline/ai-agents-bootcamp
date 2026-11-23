@@ -1,0 +1,21 @@
+research_task:
+  description: >
+    Research {company} on the web. Focus on:
+    1. What the company does and where it operates
+    2. Its size: number of locations, rooms or shops
+    3. News from the last 12 months
+    4. Anything about local suppliers, sustainability or guest experience
+    Important: use your search tool. Your facts must be current as of {current_date}.
+  expected_output: >
+    Organised research notes under the four headings, with a source link for each fact.
+  agent: researcher
+
+analysis_task:
+  description: >
+    Using the research, write a short report: is {company} a good wholesale partner
+    for Sara's candle shop? Cover the opportunity, the risks, and a first step Sara could take.
+  expected_output: >
+    A one-page markdown report with a clear yes, no or maybe at the top.
+  agent: analyst
+  context: [research_task]
+  output_file: output/report.md

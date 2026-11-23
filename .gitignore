@@ -1,0 +1,7 @@
+.env
+.venv/
+__pycache__/
+outbox/*.txt
+.DS_Store
+*.db
+.adk/

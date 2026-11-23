@@ -1,0 +1,377 @@
+date,size,scent,quantity,price
+2026-10-01,small,Coffee Bean,2,12
+2026-10-01,large,Orange Blossom,1,26
+2026-10-01,large,Orange Blossom,1,26
+2026-10-01,small,Eucalyptus,2,12
+2026-10-01,small,Lavender,1,12
+2026-10-01,large,Coffee Bean,2,26
+2026-10-01,small,Amber,2,12
+2026-10-01,small,Fig & Cedar,1,12
+2026-10-01,small,Eucalyptus,1,12
+2026-10-01,small,Eucalyptus,1,12
+2026-10-02,medium,Eucalyptus,1,18
+2026-10-02,medium,Vanilla,1,18
+2026-10-02,medium,Vanilla,1,18
+2026-10-02,medium,Coffee Bean,1,18
+2026-10-02,medium,Sea Salt,1,18
+2026-10-02,small,Vanilla,1,12
+2026-10-02,small,Vanilla,2,12
+2026-10-02,medium,Sea Salt,1,18
+2026-10-02,large,Orange Blossom,1,26
+2026-10-02,small,Sea Salt,1,12
+2026-10-02,small,Fig & Cedar,2,12
+2026-10-02,small,Fig & Cedar,1,12
+2026-10-02,small,Vanilla,2,12
+2026-10-02,medium,Vanilla,2,18
+2026-10-03,small,Eucalyptus,1,12
+2026-10-03,medium,Lavender,3,18
+2026-10-03,medium,Orange Blossom,1,18
+2026-10-03,medium,Sea Salt,1,18
+2026-10-03,small,Amber,1,12
+2026-10-03,small,Lavender,1,12
+2026-10-03,small,Vanilla,1,12
+2026-10-03,medium,Sea Salt,1,18
+2026-10-03,small,Fig & Cedar,1,12
+2026-10-03,small,Lavender,3,12
+2026-10-03,small,Vanilla,1,12
+2026-10-03,medium,Lavender,1,18
+2026-10-03,small,Amber,1,12
+2026-10-03,small,Fig & Cedar,3,12
+2026-10-03,medium,Fig & Cedar,1,18
+2026-10-03,small,Lavender,1,12
+2026-10-04,medium,Vanilla,1,18
+2026-10-04,large,Vanilla,1,26
+2026-10-04,small,Vanilla,1,12
+2026-10-04,small,Vanilla,1,12
+2026-10-04,small,Lavender,2,12
+2026-10-04,medium,Lavender,2,18
+2026-10-04,small,Fig & Cedar,1,12
+2026-10-04,small,Vanilla,1,12
+2026-10-04,small,Eucalyptus,1,12
+2026-10-05,small,Vanilla,1,12
+2026-10-05,small,Vanilla,1,12
+2026-10-05,medium,Sea Salt,1,18
+2026-10-05,small,Vanilla,1,12
+2026-10-05,large,Lavender,1,26
+2026-10-05,large,Amber,3,26
+2026-10-05,large,Coffee Bean,1,26
+2026-10-05,small,Coffee Bean,1,12
+2026-10-05,small,Amber,1,12
+2026-10-05,small,Amber,1,12
+2026-10-05,medium,Amber,1,18
+2026-10-05,small,Lavender,1,12
+2026-10-05,small,Sea Salt,3,12
+2026-10-05,medium,Vanilla,1,18
+2026-10-06,large,Vanilla,1,26
+2026-10-06,small,Lavender,2,12
+2026-10-06,small,Orange Blossom,2,12
+2026-10-06,large,Amber,1,26
+2026-10-06,medium,Amber,2,18
+2026-10-06,small,Amber,1,12
+2026-10-06,small,Coffee Bean,1,12
+2026-10-06,small,Amber,1,12
+2026-10-06,small,Lavender,1,12
+2026-10-07,small,Coffee Bean,3,12
+2026-10-07,large,Vanilla,1,26
+2026-10-07,large,Amber,1,26
+2026-10-07,small,Sea Salt,3,12
+2026-10-07,medium,Amber,2,18
+2026-10-07,large,Lavender,3,26
+2026-10-07,medium,Sea Salt,1,18
+2026-10-07,small,Lavender,1,12
+2026-10-07,large,Sea Salt,2,26
+2026-10-07,small,Orange Blossom,3,12
+2026-10-08,small,Coffee Bean,1,12
+2026-10-08,large,Lavender,2,26
+2026-10-08,small,Lavender,1,12
+2026-10-08,large,Vanilla,1,26
+2026-10-08,medium,Vanilla,1,18
+2026-10-08,small,Fig & Cedar,2,12
+2026-10-08,small,Vanilla,1,12
+2026-10-08,medium,Fig & Cedar,3,18
+2026-10-08,medium,Lavender,3,18
+2026-10-08,large,Amber,2,26
+2026-10-08,medium,Orange Blossom,1,18
+2026-10-08,medium,Vanilla,1,18
+2026-10-08,medium,Sea Salt,1,18
+2026-10-09,small,Amber,1,12
+2026-10-09,medium,Vanilla,1,18
+2026-10-09,medium,Amber,1,18
+2026-10-09,small,Eucalyptus,1,12
+2026-10-09,small,Vanilla,1,12
+2026-10-09,small,Vanilla,1,12
+2026-10-09,medium,Coffee Bean,1,18
+2026-10-09,large,Lavender,2,26
+2026-10-09,small,Fig & Cedar,2,12
+2026-10-09,small,Vanilla,1,12
+2026-10-09,medium,Coffee Bean,2,18
+2026-10-09,medium,Fig & Cedar,1,18
+2026-10-09,small,Sea Salt,2,12
+2026-10-09,medium,Orange Blossom,3,18
+2026-10-09,medium,Sea Salt,1,18
+2026-10-09,large,Lavender,1,26
+2026-10-10,small,Sea Salt,2,12
+2026-10-10,medium,Orange Blossom,2,18
+2026-10-10,medium,Eucalyptus,1,18
+2026-10-10,small,Sea Salt,1,12
+2026-10-10,medium,Amber,1,18
+2026-10-10,medium,Fig & Cedar,1,18
+2026-10-10,small,Vanilla,1,12
+2026-10-10,medium,Eucalyptus,1,18
+2026-10-10,medium,Lavender,1,18
+2026-10-10,small,Eucalyptus,3,12
+2026-10-10,small,Amber,1,12
+2026-10-10,small,Lavender,1,12
+2026-10-10,small,Orange Blossom,1,12
+2026-10-10,small,Orange Blossom,1,12
+2026-10-11,large,Lavender,2,26
+2026-10-11,medium,Orange Blossom,2,18
+2026-10-11,large,Vanilla,1,26
+2026-10-11,large,Orange Blossom,1,26
+2026-10-11,small,Vanilla,1,12
+2026-10-11,small,Vanilla,1,12
+2026-10-11,small,Lavender,1,12
+2026-10-11,small,Lavender,1,12
+2026-10-11,small,Coffee Bean,1,12
+2026-10-11,small,Fig & Cedar,1,12
+2026-10-12,medium,Vanilla,1,18
+2026-10-12,medium,Vanilla,1,18
+2026-10-12,small,Sea Salt,1,12
+2026-10-12,large,Sea Salt,1,26
+2026-10-12,medium,Fig & Cedar,1,18
+2026-10-12,medium,Orange Blossom,2,18
+2026-10-12,large,Sea Salt,1,26
+2026-10-12,small,Vanilla,1,12
+2026-10-12,medium,Eucalyptus,1,18
+2026-10-13,small,Eucalyptus,1,12
+2026-10-13,medium,Fig & Cedar,1,18
+2026-10-13,medium,Fig & Cedar,1,18
+2026-10-13,small,Orange Blossom,1,12
+2026-10-13,large,Vanilla,1,26
+2026-10-13,small,Sea Salt,1,12
+2026-10-13,small,Coffee Bean,1,12
+2026-10-13,large,Fig & Cedar,1,26
+2026-10-13,medium,Sea Salt,1,18
+2026-10-13,medium,Orange Blossom,1,18
+2026-10-14,medium,Orange Blossom,1,18
+2026-10-14,small,Fig & Cedar,3,12
+2026-10-14,large,Fig & Cedar,1,26
+2026-10-14,large,Lavender,2,26
+2026-10-14,medium,Coffee Bean,1,18
+2026-10-14,medium,Orange Blossom,1,18
+2026-10-14,medium,Vanilla,1,18
+2026-10-14,large,Orange Blossom,1,26
+2026-10-14,medium,Vanilla,1,18
+2026-10-14,small,Orange Blossom,1,12
+2026-10-14,medium,Lavender,1,18
+2026-10-14,small,Lavender,1,12
+2026-10-14,medium,Eucalyptus,1,18
+2026-10-15,small,Sea Salt,1,12
+2026-10-15,small,Lavender,1,12
+2026-10-15,medium,Amber,2,18
+2026-10-15,medium,Lavender,2,18
+2026-10-15,medium,Lavender,1,18
+2026-10-15,small,Vanilla,1,12
+2026-10-15,medium,Lavender,1,18
+2026-10-15,small,Orange Blossom,2,12
+2026-10-15,small,Orange Blossom,1,12
+2026-10-15,small,Vanilla,1,12
+2026-10-16,medium,Eucalyptus,1,18
+2026-10-16,large,Lavender,1,26
+2026-10-16,large,Lavender,1,26
+2026-10-16,small,Lavender,1,12
+2026-10-16,small,Eucalyptus,1,12
+2026-10-16,large,Lavender,2,26
+2026-10-16,medium,Coffee Bean,2,18
+2026-10-16,medium,Sea Salt,1,18
+2026-10-16,small,Sea Salt,1,12
+2026-10-16,medium,Sea Salt,3,18
+2026-10-16,small,Fig & Cedar,1,12
+2026-10-16,large,Lavender,1,26
+2026-10-16,small,Lavender,1,12
+2026-10-16,small,Vanilla,1,12
+2026-10-16,medium,Orange Blossom,2,18
+2026-10-16,medium,Lavender,1,18
+2026-10-16,small,Lavender,1,12
+2026-10-17,medium,Orange Blossom,1,18
+2026-10-17,small,Sea Salt,1,12
+2026-10-17,small,Sea Salt,1,12
+2026-10-17,small,Coffee Bean,1,12
+2026-10-17,small,Vanilla,2,12
+2026-10-17,medium,Amber,1,18
+2026-10-17,large,Lavender,3,26
+2026-10-17,small,Lavender,2,12
+2026-10-17,medium,Orange Blossom,1,18
+2026-10-17,large,Sea Salt,1,26
+2026-10-17,small,Coffee Bean,1,12
+2026-10-17,small,Vanilla,2,12
+2026-10-17,large,Eucalyptus,1,26
+2026-10-17,small,Amber,1,12
+2026-10-17,large,Coffee Bean,1,26
+2026-10-18,medium,Lavender,1,18
+2026-10-18,small,Amber,1,12
+2026-10-18,small,Orange Blossom,1,12
+2026-10-18,small,Fig & Cedar,1,12
+2026-10-18,small,Lavender,1,12
+2026-10-18,small,Orange Blossom,3,12
+2026-10-18,small,Vanilla,1,12
+2026-10-18,small,Lavender,1,12
+2026-10-18,small,Orange Blossom,1,12
+2026-10-18,small,Sea Salt,1,12
+2026-10-18,small,Amber,1,12
+2026-10-18,medium,Sea Salt,3,18
+2026-10-18,small,Orange Blossom,2,12
+2026-10-19,medium,Vanilla,1,18
+2026-10-19,small,Sea Salt,3,12
+2026-10-19,small,Vanilla,3,12
+2026-10-19,large,Amber,2,26
+2026-10-19,small,Orange Blossom,1,12
+2026-10-19,large,Fig & Cedar,1,26
+2026-10-19,medium,Vanilla,1,18
+2026-10-19,large,Fig & Cedar,1,26
+2026-10-20,large,Amber,1,26
+2026-10-20,small,Lavender,1,12
+2026-10-20,medium,Eucalyptus,2,18
+2026-10-20,large,Lavender,3,26
+2026-10-20,medium,Coffee Bean,2,18
+2026-10-20,large,Eucalyptus,3,26
+2026-10-20,large,Vanilla,1,26
+2026-10-20,small,Vanilla,1,12
+2026-10-20,large,Lavender,3,26
+2026-10-20,large,Coffee Bean,2,26
+2026-10-21,medium,Lavender,1,18
+2026-10-21,small,Lavender,2,12
+2026-10-21,large,Coffee Bean,1,26
+2026-10-21,medium,Fig & Cedar,1,18
+2026-10-21,small,Sea Salt,1,12
+2026-10-21,medium,Fig & Cedar,1,18
+2026-10-21,large,Sea Salt,1,26
+2026-10-21,large,Fig & Cedar,1,26
+2026-10-21,medium,Eucalyptus,2,18
+2026-10-21,small,Vanilla,2,12
+2026-10-21,large,Sea Salt,2,26
+2026-10-21,medium,Fig & Cedar,1,18
+2026-10-21,small,Lavender,3,12
+2026-10-21,medium,Lavender,1,18
+2026-10-22,large,Sea Salt,2,26
+2026-10-22,large,Vanilla,1,26
+2026-10-22,small,Sea Salt,2,12
+2026-10-22,medium,Fig & Cedar,2,18
+2026-10-22,medium,Lavender,2,18
+2026-10-22,small,Coffee Bean,1,12
+2026-10-22,medium,Lavender,1,18
+2026-10-22,medium,Orange Blossom,1,18
+2026-10-22,small,Fig & Cedar,1,12
+2026-10-22,medium,Vanilla,1,18
+2026-10-22,large,Lavender,1,26
+2026-10-23,small,Vanilla,2,12
+2026-10-23,medium,Fig & Cedar,1,18
+2026-10-23,small,Fig & Cedar,2,12
+2026-10-23,large,Fig & Cedar,2,26
+2026-10-23,large,Sea Salt,1,26
+2026-10-23,small,Orange Blossom,1,12
+2026-10-23,medium,Lavender,3,18
+2026-10-23,small,Sea Salt,1,12
+2026-10-23,small,Vanilla,1,12
+2026-10-23,small,Lavender,1,12
+2026-10-23,small,Eucalyptus,1,12
+2026-10-23,large,Sea Salt,3,26
+2026-10-24,medium,Lavender,1,18
+2026-10-24,medium,Lavender,1,18
+2026-10-24,medium,Fig & Cedar,3,18
+2026-10-24,medium,Vanilla,1,18
+2026-10-24,medium,Amber,1,18
+2026-10-24,large,Vanilla,1,26
+2026-10-24,small,Fig & Cedar,1,12
+2026-10-24,small,Lavender,2,12
+2026-10-24,small,Sea Salt,1,12
+2026-10-24,large,Sea Salt,1,26
+2026-10-24,small,Orange Blossom,2,12
+2026-10-24,medium,Eucalyptus,2,18
+2026-10-24,small,Vanilla,1,12
+2026-10-24,small,Lavender,1,12
+2026-10-24,small,Vanilla,1,12
+2026-10-24,medium,Lavender,1,18
+2026-10-24,small,Vanilla,2,12
+2026-10-25,small,Sea Salt,3,12
+2026-10-25,medium,Orange Blossom,2,18
+2026-10-25,small,Fig & Cedar,1,12
+2026-10-25,large,Orange Blossom,1,26
+2026-10-25,medium,Coffee Bean,1,18
+2026-10-25,small,Fig & Cedar,2,12
+2026-10-25,small,Fig & Cedar,1,12
+2026-10-25,small,Orange Blossom,1,12
+2026-10-26,large,Orange Blossom,1,26
+2026-10-26,small,Vanilla,1,12
+2026-10-26,small,Vanilla,2,12
+2026-10-26,small,Orange Blossom,1,12
+2026-10-26,small,Lavender,1,12
+2026-10-26,small,Vanilla,2,12
+2026-10-26,small,Fig & Cedar,2,12
+2026-10-26,large,Eucalyptus,1,26
+2026-10-26,small,Coffee Bean,3,12
+2026-10-26,medium,Lavender,3,18
+2026-10-26,medium,Orange Blossom,2,18
+2026-10-27,small,Lavender,3,12
+2026-10-27,medium,Fig & Cedar,1,18
+2026-10-27,small,Lavender,1,12
+2026-10-27,small,Fig & Cedar,3,12
+2026-10-27,large,Vanilla,1,26
+2026-10-27,small,Sea Salt,1,12
+2026-10-27,small,Coffee Bean,1,12
+2026-10-27,large,Vanilla,1,26
+2026-10-28,medium,Eucalyptus,1,18
+2026-10-28,medium,Sea Salt,1,18
+2026-10-28,small,Sea Salt,1,12
+2026-10-28,small,Vanilla,1,12
+2026-10-28,small,Sea Salt,1,12
+2026-10-28,small,Sea Salt,2,12
+2026-10-28,medium,Eucalyptus,2,18
+2026-10-28,small,Lavender,1,12
+2026-10-28,large,Fig & Cedar,1,26
+2026-10-28,small,Sea Salt,1,12
+2026-10-28,medium,Amber,1,18
+2026-10-28,medium,Eucalyptus,1,18
+2026-10-29,medium,Vanilla,3,18
+2026-10-29,large,Orange Blossom,1,26
+2026-10-29,large,Coffee Bean,1,26
+2026-10-29,large,Lavender,1,26
+2026-10-29,small,Vanilla,1,12
+2026-10-29,large,Lavender,1,26
+2026-10-29,medium,Lavender,3,18
+2026-10-29,large,Vanilla,2,26
+2026-10-29,small,Orange Blossom,3,12
+2026-10-30,small,Sea Salt,3,12
+2026-10-30,large,Fig & Cedar,2,26
+2026-10-30,medium,Vanilla,1,18
+2026-10-30,medium,Fig & Cedar,1,18
+2026-10-30,medium,Sea Salt,1,18
+2026-10-30,medium,Vanilla,2,18
+2026-10-30,large,Coffee Bean,1,26
+2026-10-30,large,Coffee Bean,2,26
+2026-10-30,small,Sea Salt,1,12
+2026-10-30,medium,Orange Blossom,1,18
+2026-10-30,small,Coffee Bean,2,12
+2026-10-30,large,Coffee Bean,1,26
+2026-10-30,large,Sea Salt,1,26
+2026-10-30,small,Sea Salt,1,12
+2026-10-30,large,Lavender,1,26
+2026-10-30,small,Lavender,3,12
+2026-10-31,medium,Fig & Cedar,2,18
+2026-10-31,small,Lavender,1,12
+2026-10-31,large,Amber,1,26
+2026-10-31,small,Coffee Bean,3,12
+2026-10-31,small,Sea Salt,1,12
+2026-10-31,medium,Lavender,1,18
+2026-10-31,small,Sea Salt,1,12
+2026-10-31,medium,Coffee Bean,1,18
+2026-10-31,large,Orange Blossom,1,26
+2026-10-31,small,Amber,2,12
+2026-10-31,small,Amber,1,12
+2026-10-31,medium,Eucalyptus,3,18
+2026-10-31,small,Lavender,1,12
+2026-10-31,medium,Coffee Bean,1,18
+2026-10-31,medium,Amber,1,18
+2026-10-31,small,Amber,1,12
+2026-10-31,large,Coffee Bean,1,26
+2026-10-31,small,Lavender,1,12

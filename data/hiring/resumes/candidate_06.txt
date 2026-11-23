@@ -1,0 +1,16 @@
+Name: Tom Becker
+Email: tom.becker@example.com
+Phone: +351 900 000 106
+Address: Rua de Santa Catarina 200, Porto
+Date of birth: 5 May 1996
+Photo: attached
+---
+Summary: Software developer who makes candles as a hobby.
+
+Experience:
+- 2019 to now: Software developer, remote.
+- Hobby: 6 months of making candles at home.
+
+Skills: Shopify, Python, product photos.
+Languages: German, English.
+Availability: Saturdays.

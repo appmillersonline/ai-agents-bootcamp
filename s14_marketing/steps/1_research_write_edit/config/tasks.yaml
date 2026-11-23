@@ -1,0 +1,26 @@
+research_task:
+  description: >
+    Search the web for what people look for in {month} when they shop for homeware,
+    gifts or a cosy home. Pick 3 ideas that fit Sara's products.
+  expected_output: >
+    3 ideas. For each: a title, why it matters in {month}, which of Sara's products fit, and a source link.
+  agent: trend_researcher
+
+writing_task:
+  description: >
+    Pick the strongest idea from the research and write a blog post of about 500 words for Sara's Shop.
+    Use a clear title, short paragraphs, and mention 2 or 3 real products with their real prices.
+  expected_output: >
+    The blog post in Markdown, with a title.
+  context: [research_task]
+  agent: content_writer
+
+editing_task:
+  description: >
+    Edit the blog post. Check every product, price and care tip against the shop handbook.
+    Remove hype words and anything the handbook does not support.
+  expected_output: >
+    The final blog post in Markdown, then a section called "Changes" that lists every change you made.
+  context: [writing_task]
+  agent: editor
+  output_file: output/blog_post.md

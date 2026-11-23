@@ -1,0 +1,6 @@
+order_id,customer,email,item,status,ship_date,eta
+1040,Leo Park,leo@example.com,Blue mug set,delivered,2026-10-20,2026-10-23
+1041,Ana Silva,ana@example.com,Linen tote bag,shipped,2026-10-27,2026-10-31
+1042,Maya Chen,maya@example.com,Ceramic vase,shipped,2026-10-28,2026-10-30
+1043,Omar Haddad,omar@example.com,Candle trio,processing,,
+1044,Jess Brown,jess@example.com,Blue mug set,delayed,,

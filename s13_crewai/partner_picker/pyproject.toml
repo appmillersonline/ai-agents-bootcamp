@@ -1,0 +1,25 @@
+[project]
+name = "partner_picker"
+version = "0.1.0"
+description = "partner_picker using crewAI"
+authors = [{ name = "Your Name", email = "you@example.com" }]
+requires-python = ">=3.10,<3.14"
+dependencies = [
+    "crewai[tools]>=1.15.35,<2.0.0"
+]
+
+[project.scripts]
+partner_picker = "partner_picker.main:run"
+run_crew = "partner_picker.main:run"
+train = "partner_picker.main:train"
+replay = "partner_picker.main:replay"
+test = "partner_picker.main:test"
+run_with_trigger = "partner_picker.main:run_with_trigger"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.crewai]
+type = "crew"
+project_id = "0031ba29-5806-406c-852a-5c453fd9fe44"

@@ -1,0 +1,13 @@
+- generic [active] [ref=e1]:
+  - heading "Wick & Co" [level=1] [ref=e2]
+  - navigation [ref=e3]:
+    - link "Home" [ref=e4] [cursor=pointer]:
+      - /url: index.html
+    - link "Candles" [ref=e5] [cursor=pointer]:
+      - /url: candles.html
+    - link "Mugs" [ref=e6] [cursor=pointer]:
+      - /url: mugs.html
+    - link "About" [ref=e7] [cursor=pointer]:
+      - /url: about.html
+  - generic [ref=e8]: "Winter sale: 15% off all candle sets until 30 November."
+  - paragraph [ref=e9]: Small-batch candles and ceramics from our Porto workshop. Free shipping on orders over 50 euros.

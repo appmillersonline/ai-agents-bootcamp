@@ -1,0 +1,16 @@
+Name: Joseph Okafor
+Email: joseph.okafor@example.com
+Phone: +351 900 000 102
+Address: Avenida da Boavista 400, Porto
+Date of birth: 2 June 1967
+Photo: attached
+---
+Summary: Baker with a long career running a neighbourhood bakery.
+
+Experience:
+- 2004 to 2025: Owner and head baker of a small bakery. Baked every morning, served customers, trained staff.
+- Food hygiene certificate, renewed every year; ran the bakery's safety checks.
+
+Skills: baking, customer service, stock ordering.
+Languages: English and Portuguese.
+Availability: any day, including Saturdays.

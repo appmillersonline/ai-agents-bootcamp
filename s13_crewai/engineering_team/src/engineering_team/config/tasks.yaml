@@ -1,0 +1,39 @@
+design_task:
+  description: >
+    Read Sara's requirements and write a design for {module_name} with one class, {class_name}.
+    List every method with its arguments, what it returns, and the errors it raises.
+    Requirements: {requirements}
+  expected_output: >
+    A design in Markdown. No code, only the class, its methods and the rules they follow.
+  output_file: sara_app/design.md
+  agent: engineering_lead
+
+backend_task:
+  description: >
+    Write {module_name} from the engineering lead's design, with the class {class_name}.
+    Use only the Python standard library. Save it with the "Write a workspace file" tool.
+    Requirements: {requirements}
+  expected_output: >
+    One sentence saying which file you wrote and which methods it has.
+  context: [design_task]
+  agent: backend_engineer
+
+frontend_task:
+  description: >
+    Read {module_name} with the "Read a workspace file" tool, then write app.py: a simple Gradio
+    screen that imports {class_name} from {module_name} and lets Sara use every method.
+    Keep one {class_name} object for the whole session. End the file with demo.launch().
+  expected_output: >
+    One sentence saying which file you wrote and what the screen shows.
+  context: [backend_task]
+  agent: frontend_engineer
+
+test_task:
+  description: >
+    Read {module_name} with the "Read a workspace file" tool, then write test_{module_name}
+    with pytest tests for every rule in the requirements. Save it with the "Write a workspace file" tool.
+    Requirements: {requirements}
+  expected_output: >
+    One sentence saying which file you wrote and how many tests it has.
+  context: [backend_task]
+  agent: test_engineer

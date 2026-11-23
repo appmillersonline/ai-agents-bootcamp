@@ -1,0 +1,16 @@
+Name: Mei Chen
+Email: mei.chen@example.com
+Phone: +351 900 000 103
+Address: Rua de Cedofeita 88, Porto
+Date of birth: 9 October 1994
+Photo: attached
+---
+Summary: Ceramics studio assistant moving towards home goods.
+
+Experience:
+- 2022 to now: Ceramics studio assistant. Throw and glaze pots, run the kiln following the studio's safety checklist.
+- 2021 to 2022: Sales assistant in a gallery shop, 1 year.
+
+Skills: ceramics, glazing, kiln safety, product photography.
+Languages: English, Mandarin, basic Portuguese.
+Availability: weekdays; Saturdays every other week.

@@ -1,0 +1,17 @@
+Name: Fatima Haddad
+Email: fatima.haddad@example.com
+Phone: +351 900 000 105
+Address: Rua Miguel Bombarda 30, Porto
+Date of birth: 21 July 1989
+Photo: attached
+---
+Summary: Experienced candle maker returning to work.
+
+Experience:
+- 2023 to now: Caring for a family member full time.
+- 2019 to 2023: Candle maker in a small workshop. Poured soy and beeswax candles, tested burn times, followed the workshop's hot-wax safety rules.
+- 2016 to 2019: Shop assistant in a homeware shop.
+
+Skills: candle making, fragrance blending, customer service.
+Languages: Portuguese, English, Arabic.
+Availability: weekdays and Saturdays.

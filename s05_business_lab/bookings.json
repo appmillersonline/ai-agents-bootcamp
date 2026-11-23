@@ -1,0 +1,29 @@
+[
+  {
+    "id": "B101",
+    "name": "Leo Park",
+    "email": "leo@example.com",
+    "service": "Haircut",
+    "day": "2026-11-05",
+    "time": "14:00",
+    "status": "booked"
+  },
+  {
+    "id": "B102",
+    "name": "Ana Silva",
+    "email": "ana@example.com",
+    "service": "Colour",
+    "day": "2026-11-05",
+    "time": "15:00",
+    "status": "booked"
+  },
+  {
+    "id": "B103",
+    "name": "Omar Haddad",
+    "email": "omar@example.com",
+    "service": "Beard trim",
+    "day": "2026-11-06",
+    "time": "10:00",
+    "status": "booked"
+  }
+]

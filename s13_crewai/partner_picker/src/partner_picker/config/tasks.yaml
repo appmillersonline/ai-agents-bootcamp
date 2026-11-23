@@ -1,0 +1,26 @@
+find_partners:
+  description: >
+    Search the latest news and find 3 café groups or boutique hotel groups in {city}
+    that are growing as of {current_date}. Find businesses you have not suggested before.
+  expected_output: >
+    A list of 3 businesses with their name, their city and why they are interesting now.
+  output_file: output/partners.json
+
+research_partners:
+  description: >
+    Research each business from the list: its size, recent news, how it presents
+    its guest experience, and any signs it likes local or sustainable suppliers.
+  expected_output: >
+    A research entry for every business on the list.
+  context: [find_partners]
+  output_file: output/research.json
+
+pick_partner:
+  description: >
+    Pick the best business for Sara to pitch first. Send a push notification with
+    the name and a one-sentence reason. Then write a short report on why you chose it
+    and why the others were not chosen.
+  expected_output: >
+    A markdown report: the chosen business, the reasons, and the businesses not chosen.
+  context: [research_partners]
+  output_file: output/decision.md

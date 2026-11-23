@@ -1,0 +1,12 @@
+[
+ {"id": 1, "from": "maya@example.com", "subject": "Order 1042?", "body": "Hi! Where is my order 1042? I need the vase for a party on Saturday."},
+ {"id": 2, "from": "orders@lumen-wholesale.example", "subject": "Invoice INV-2026-130", "body": "Please find attached invoice INV-2026-130 for 240 soy candles, 312 euros, due in 30 days."},
+ {"id": 3, "from": "events@pestana-lisboa.example", "subject": "Candles for our hotel lobby", "body": "Hello, we are a boutique hotel in Lisbon and would like to discuss 60 candle trios per month for our rooms. Could we arrange a call this week?"},
+ {"id": 4, "from": "jess@example.com", "subject": "Still not shipped!!", "body": "My order 1044 still hasn't shipped and it's been a week. This is really disappointing."},
+ {"id": 5, "from": "deals@mega-promo.example", "subject": "You WON a free iPhone!!!", "body": "Click here to claim your prize before midnight."},
+ {"id": 6, "from": "security@paypa1-alerts.example", "subject": "Your account will be suspended", "body": "Verify your password within 24 hours at the link below or your account will be closed."},
+ {"id": 7, "from": "omar@example.com", "subject": "Change candle colours", "body": "Hi, can I change the candle colours on order 1043? Vanilla instead of cedar, please."},
+ {"id": 8, "from": "daniel@example.com", "subject": "Broken vase", "body": "My ceramic vase from order 1045 arrived broken, photo attached. It was 45 euros. Can I get a refund?"},
+ {"id": 9, "from": "lena.w@example.com", "subject": "Love the mugs", "body": "Just wanted to say the speckled mug is my favourite thing in the kitchen. Thank you!"},
+ {"id": 10, "from": "newsletter@craft-weekly.example", "subject": "This week in crafts", "body": "Ten trends for the holiday season, plus our maker of the month."}
+]

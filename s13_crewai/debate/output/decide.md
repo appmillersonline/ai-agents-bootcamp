@@ -1,0 +1,3 @@
+For
+
+The pro side was more convincing because it showed clear, practical benefits for small shops: faster replies, lower costs, and the ability to handle routine questions without hiring extra staff. Those points directly address common problems small businesses face, especially limited time and resources. The against side raised valid concerns about loss of personal touch and AI mistakes, but those risks seem manageable with oversight and do not outweigh the efficiency gains for straightforward customer emails.

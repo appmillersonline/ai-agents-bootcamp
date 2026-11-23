@@ -1,0 +1,5 @@
+[project]
+name = "s20-claude-code"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = ["pytest", "claude-agent-sdk", "python-dotenv"]

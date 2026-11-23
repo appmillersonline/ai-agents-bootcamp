@@ -1,0 +1,30 @@
+- generic [active] [ref=f1e1]:
+  - heading "Candles" [level=1] [ref=f1e2]
+  - navigation [ref=f1e3]:
+    - link "Home" [ref=f1e4] [cursor=pointer]:
+      - /url: index.html
+    - link "Candles" [ref=f1e5] [cursor=pointer]:
+      - /url: candles.html
+    - link "Mugs" [ref=f1e6] [cursor=pointer]:
+      - /url: mugs.html
+    - link "About" [ref=f1e7] [cursor=pointer]:
+      - /url: about.html
+  - paragraph [ref=f1e8]: All prices before the winter sale discount.
+  - table [ref=f1e9]:
+    - rowgroup [ref=f1e10]:
+      - row [ref=f1e11]:
+        - columnheader "Product" [ref=f1e12]
+        - columnheader "Burn time" [ref=f1e13]
+        - columnheader "Price" [ref=f1e14]
+      - row [ref=f1e15]:
+        - cell "Lavender candle" [ref=f1e16]
+        - cell "45 hours" [ref=f1e17]
+        - cell "14 euros" [ref=f1e18]
+      - row [ref=f1e19]:
+        - cell "Candle set of three (fig, amber, cedar)" [ref=f1e20]
+        - cell "25 hours each" [ref=f1e21]
+        - cell "26 euros" [ref=f1e22]
+      - row [ref=f1e23]:
+        - cell "Large sea salt candle" [ref=f1e24]
+        - cell "70 hours" [ref=f1e25]
+        - cell "24 euros" [ref=f1e26]

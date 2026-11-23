@@ -1,0 +1,26 @@
+propose:
+  description: >
+    Argue in favour of the motion: {motion}.
+    Give your three strongest points.
+  expected_output: >
+    A short argument in favour of the motion, with three numbered points.
+  agent: debater
+  output_file: output/propose.md
+
+oppose:
+  description: >
+    Argue against the motion: {motion}.
+    Give your three strongest points.
+  expected_output: >
+    A short argument against the motion, with three numbered points.
+  agent: debater
+  output_file: output/oppose.md
+
+decide:
+  description: >
+    Read both arguments about the motion: {motion}.
+    Decide which side was more convincing, and explain why in a few sentences.
+  expected_output: >
+    The winning side (for or against) on the first line, then your reasons.
+  agent: judge
+  output_file: output/decide.md

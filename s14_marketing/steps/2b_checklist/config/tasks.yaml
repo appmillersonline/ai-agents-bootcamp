@@ -1,0 +1,41 @@
+research_task:
+  description: >
+    Search the web for what people look for in {month} when they shop for homeware,
+    gifts or a cosy home. Pick 3 ideas that fit Sara's products.
+  expected_output: >
+    3 ideas. For each: a title, why it matters in {month}, which of Sara's products fit, and a source link.
+  agent: trend_researcher
+
+writing_task:
+  description: >
+    Pick the strongest idea from the research and write a blog post of about 500 words for Sara's Shop.
+    Use a clear title, short paragraphs, and mention 2 or 3 real products with their real prices.
+  expected_output: >
+    The blog post in Markdown, with a title.
+  context: [research_task]
+  agent: content_writer
+
+editing_task:
+  description: >
+    Edit the blog post. Check every product, price and care tip against the shop handbook.
+    Follow the brand voice guide, and remove anything the handbook does not support.
+  expected_output: >
+    The final blog post in Markdown, then a section called "Changes" that lists every change you made.
+  context: [writing_task]
+  agent: editor
+  output_file: output/blog_post.md
+
+social_task:
+  description: >
+    Write one Instagram post and one LinkedIn post that point readers to the blog post.
+    Follow the Instagram and LinkedIn rules in the brand voice guide.
+    Before you finish, check this list and fix anything that fails:
+    - If a candle is mentioned, the post includes "Never leave a burning candle alone."
+    - Instagram: 60 to 120 words, at most 2 emoji, 3 to 5 hashtags including #SarasShop.
+    - LinkedIn: no emoji and no hashtags.
+    - No hype words and no health claims.
+  expected_output: >
+    Two sections in Markdown, "Instagram" and "LinkedIn", each with the finished post.
+  context: [editing_task]
+  agent: social_media_writer
+  output_file: output/social_posts.md

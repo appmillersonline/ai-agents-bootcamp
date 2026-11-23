@@ -1,0 +1,16 @@
+Name: Ana Silva
+Email: ana.silva@example.com
+Phone: +351 900 000 101
+Address: Rua das Flores 12, Porto
+Date of birth: 14 March 2002
+Photo: attached
+---
+Summary: Maker who loves natural materials.
+
+Experience:
+- 2023 to now: Soap maker at a weekend market stall. I make, wrap and sell 200 bars a month and talk to customers all day.
+- 2022 to 2023: Barista in a busy café, 25 hours a week.
+
+Skills: cold-process soap, lye safety training, product photos for the stall's Instagram (3,000 followers).
+Languages: Portuguese and English.
+Availability: weekdays and Saturdays.

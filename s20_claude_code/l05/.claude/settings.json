@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": ["Read", "Edit", "Bash(python -m pytest:*)"],
+    "deny": ["Read(./secrets/**)", "Bash(rm:*)", "Bash(curl:*)"]
+  },
+  "hooks": {
+    "PreToolUse": [
+      {"matcher": "Edit|Write", "hooks": [{"type": "command", "command": "python3 .claude/hooks/guard_prices.py"}]}
+    ],
+    "PostToolUse": [
+      {"matcher": "*", "hooks": [{"type": "command", "command": "python3 .claude/hooks/audit.py"}]}
+    ]
+  }
+}

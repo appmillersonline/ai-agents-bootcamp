@@ -1,0 +1,30 @@
+<!doctype html>
+<html><head><meta charset="utf-8"><title>AI Trading Floor</title>
+<style>
+ body { font-family: sans-serif; margin: 30px; background: #faf8f3; }
+ .cards { display: flex; gap: 16px; } .card { background: white; border-radius: 12px; padding: 16px 22px; min-width: 170px; }
+ .big { font-size: 28px; font-weight: bold; } .up { color: #2a9d8f; } .down { color: #e76f51; }
+ table { background: white; border-radius: 12px; margin-top: 18px; font-size: 14px; } td { padding: 6px 10px; }
+</style></head>
+<body>
+<h2>AI Trading Floor <small style="color:#a00">simulated money, made-up companies</small></h2>
+<div class="cards" id="cards"></div>
+<table id="trades"></table>
+<p id="updated" style="color:#888"></p>
+<script>
+// The front end only talks to the backend's JSON. It refreshes every 10 seconds.
+async function load() {
+  const data = await (await fetch("/api/floor")).json();
+  const latest = {}, first = {};
+  for (const r of data.history) { latest[r.trader] = r; if (!(r.trader in first)) first[r.trader] = r; }
+  document.getElementById("cards").innerHTML = Object.values(latest).map(r => {
+    const change = r.value - 10000;
+    return `<div class="card">${r.trader}<div class="big">${r.value.toLocaleString("en", {maximumFractionDigits: 0})}</div>
+            <span class="${change >= 0 ? "up" : "down"}">${change >= 0 ? "+" : ""}${change.toFixed(2)} since day ${first[r.trader].day}</span></div>`;
+  }).join("");
+  document.getElementById("trades").innerHTML = "<tr><th>day</th><th>trader</th><th>trade</th><th>reason</th></tr>" +
+    data.trades.map(t => `<tr><td>${t.day}</td><td>${t.trader}</td><td>${t.side} ${t.shares} ${t.ticker}</td><td>${t.reason}</td></tr>`).join("");
+  document.getElementById("updated").textContent = "updated " + new Date().toLocaleTimeString();
+}
+load(); setInterval(load, 10000);
+</script></body></html>

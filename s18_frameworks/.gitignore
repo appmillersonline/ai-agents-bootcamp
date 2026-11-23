@@ -1,0 +1,4 @@
+.venv/
+.env
+*.db
+agent_loop/outbox/*.md
