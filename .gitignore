@@ -5,3 +5,4 @@ outbox/*.txt
 .DS_Store
 *.db
 .adk/
+outbox/*.json
